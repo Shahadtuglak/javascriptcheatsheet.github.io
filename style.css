@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: Red;
+}
+header{
+	text-align: center;
+	background-color: whitesmoke;
+	height: 6rem;
+	padding: 20px;
+}
+
+.container{
+	margin: 20px 0 20px 40px;
+}
+
+li{
+	padding: 5px;
+}
+
+
+
+
+footer{
+	text-align: center;
+	padding: 8px;
+	background-color: whitesmoke;
+
+}
