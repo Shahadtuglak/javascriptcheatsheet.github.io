@@ -350,36 +350,55 @@ var arr = [100,200,300,400,500];
 
 //12. Math Object in JavaScript..
 //1. PI
-var pi = Math.PI;
-console.log(pi);
+// var pi = Math.PI;
+// console.log(pi);
 
 //2. round
-var round = Math.round(22.32);
-console.log(round);
+// var round = Math.round(22.32);
+// console.log(round);
 
 //3. pow
-var power = Math.pow(3,2);
-console.log(power)
+// var power = Math.pow(3,2);
+// console.log(power)
 
 //4. sqrt
-var squareRoot = Math.sqrt(64);
-console.log(squareRoot);
+// var squareRoot = Math.sqrt(64);
+// console.log(squareRoot);
 
 //5. abs
-var absolute = Math.abs(-23);
-console.log(absolute);
+// var absolute = Math.abs(-23);
+// console.log(absolute);
 
 // 6. min
-var minimum = Math.min(0,400,950,-1);
-console.log(minimum);
+// var minimum = Math.min(0,400,950,-1);
+// console.log(minimum);
 
 //7. max
-var maximum = Math.max(0,250,500,1512,-8);
-console.log(maximum)
+// var maximum = Math.max(0,250,500,1512,-8);
+// console.log(maximum)
 
 //8. random
-var randomNumber = Math.random();
-console.log(randomNumber);
+// var randomNumber = Math.random();
+// console.log(randomNumber);
+
+
+
+//CallBack Function
+
+// document.getElementById("callBack-btn").addEventListener('click',function(){
+//    console.log("Button is Clicked");
+// })
+
+
+//Promises in JavaScript..
+
+
+
+
+
+
+
+
 
 
 
